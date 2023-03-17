@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jiahce Chen</h1>
+<h1 align="center">Hi 👋, I'm Jiahe Chen</h1>
 <h3 align="center">A junior student from Zhejiang University</h3>
 
 - 🔭 I’m currently working on **Human Trajectory Prediction**
