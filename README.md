@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mulplue@outlook.com**
 
-- 📄 Welcom to visit my [personal website](jhchen.info)
+- 📄 Welcom to visit my [**personal website**](jhchen.info)
 
 
 <h3 align="left">Languages and Tools:</h3>
