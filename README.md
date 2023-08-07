@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at OpenRobotLab@[Shanghai AI Lab](https://www.shlab.org.cn/)
 
-- 📫 How to reach me **mulplue@outlook.com**
+- 📫 How to reach me **mulplue@outlook.com** or **chenjiahe@pjlab.org.cn**
 
-- 📄 Welcom to visit my [**Homepage**](jhchen.info)
+- 📄 Welcome to visit my [**Homepage**](jhchen.info)
 
 
 <h3 align="left">Languages and Tools:</h3>
