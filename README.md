@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mulplue@outlook.com** or **chenjiahe@pjlab.org.cn**
 
-- 📄 Welcome to visit my [**Homepage**](jhchen.info)
+- 📄 Welcome to visit my [**Homepage**](https://jhchen.info)
 
 
 <h3 align="left">Languages and Tools:</h3>
