@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jiahe Chen</h1>
+<h1 align="center">Hi 👋 I'm Jiahe Chen</h1>
 <h3 align="center">Incoming Ph.D. student in Shanghai AI Lab & Zhejiang University</h3>
 
 - 🔭 I’m currently working at OpenRobotLab@[**Shanghai AI Lab**](https://www.shlab.org.cn/)
 
-- 📄 Welcome to visit my [**Homepage**](https://mulplue.github.io/))
+- 📄 Welcome to visit my [**Homepage**](https://mulplue.github.io/)
 
 - 📫 How to reach me **chenjiahe@pjlab.org.cn**
 
