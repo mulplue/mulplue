@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at OpenRobotLab@[**Shanghai AI Lab**](https://www.shlab.org.cn/)
 
-- 📄 Welcome to visit my [**Homepage**](https://mulplue.github.io/)
+- 📄 Welcome to visit my [**Homepage**](https://jiahe-chen.cn/)
 
 - 📫 How to reach me **chenjiahe@pjlab.org.cn**
 
