@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Jiahe Chen</h1>
-<h3 align="center">Incoming Ph.D. student at Shanghai AI Lab & Zhejiang University</h3>
+<h3 align="center">First-year Ph.D. student at Shanghai AI Lab & Zhejiang University</h3>
 
 - 🔭 I’m currently working at OpenRobotLab@[**Shanghai AI Lab**](https://www.shlab.org.cn/)
 
